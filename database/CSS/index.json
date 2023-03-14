@@ -2,6 +2,7 @@
   "filles": [
     {
       "title": "Flexdox",
+      "shortDescription": "CSS Flexbox - це один із найбільш зручних та ефективних способів керування макетами веб-сторінки.",
       "pathToFille": "flexbox"
     },
      {
